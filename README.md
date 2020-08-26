@@ -1,2 +1,2 @@
 # MicroWave
-Simple Microwave Project
+•	Simple Microwave Project: In this project I used keypad to set heating time and there are two buttons one to start heating and the other one for canceling heating and there is an LCD to display time during heating and if start button is pushed the heater ,the motor and the lamp are on and  LCD shows the remaining time and if the cancel button is pushed it stops the heater ,the motor and the lamp and time is cleared on the LCD.
